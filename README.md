@@ -13,6 +13,10 @@ python3 -m http.server 4173 --bind 127.0.0.1
 
 Visit http://127.0.0.1:4173. Stop the server with Ctrl+C.
 
+## View the portfollio 
+
+You can view the portfollio by visiting https://bahaanajjar.com
+
 ## Features
 
 - Shared monochrome design tokens, expressive typography, original SVG project illustrations, and responsive two-column cards.
